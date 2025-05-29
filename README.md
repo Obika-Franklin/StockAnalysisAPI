@@ -27,3 +27,5 @@ This project demonstrates the application of machine learning and API developmen
 *   **Research and Analysis:** Researchers and analysts can utilize the API to study stock market volatility and develop trading algorithms.
 
 ---
+
+**Watch the [demo video](https://youtu.be/NBZkbZfds_E?si=Axk5KKO-X6VuDQGV)!**
