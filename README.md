@@ -1,5 +1,7 @@
 # Deployment of a Stock Volatility Forecasting System using GARCH Model, FastAPI, and Web Interface
 
+![Alt text](https://github.com/Obika-Franklin/StockAnalysisAPI/blob/main/6257814%20(1).jpg)
+
 This project demonstrates the application of machine learning and API development techniques to create a practical tool for financial analysis and decision-making. In this project, we will utilize a GARCH (Generalized AutoRegressive Conditional Heteroskedasticity) model for stock volatility prediction, then we will develope a stock volatility prediction API using the model. This API will allow users to:
 
 1. **Train an ML model** for a specific stock ticker, using either the latest data from Alpha Vantage or historical data stored in a SQLite database.
