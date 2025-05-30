@@ -31,3 +31,5 @@ This project demonstrates the application of machine learning and API developmen
 ---
 
 **Watch the [demo video](https://youtu.be/NBZkbZfds_E?si=Axk5KKO-X6VuDQGV)!**
+
+**Access the [Colab Notebook](https://colab.research.google.com/drive/1sljhm_uO6Z5djT2lZMM8MUfzzFIlyzog?usp=sharing)**
